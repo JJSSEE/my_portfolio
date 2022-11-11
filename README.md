@@ -1,5 +1,5 @@
 # my_portfolio
-## Binary Heat Map for Cancer Detection
+## Binary Classification - Heat Map - Cancer Detection
 * Matrics: F1 Score
 
 
