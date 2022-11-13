@@ -1,5 +1,5 @@
 # my_portfolio
-## Binary Classification - Heat Map - Parkinsons' Desease Detection
+## Binary Classification - Parkinsons' Desease Detection
 * Matrics: F1 Score
 
 
