@@ -1,4 +1,4 @@
-# Ken_Portfolio
+# my_portfolio
 Example data science portfolio
 
 # [Project 1: Data Science Salary Estimator](https://github.com/PlayingNumbers/ds_salary_proj) 
@@ -8,7 +8,7 @@ Example data science portfolio
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
 * Built a client facing API using flask 
 
-![](/images/positions_by_state.png)
+![](https://github.com/JJSSEE/my_portfolio/blob/main/images/heat_map.png)
 
 
 # [Project 2: Ball Image Classifier](https://github.com/PlayingNumbers/ball_image_classifier) 
