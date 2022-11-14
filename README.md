@@ -15,8 +15,8 @@ Example data science portfolio
 ### Confussion Matrix
 
 * Train and test data split selected at a random state ratio of 80/20.
-* Consistent performance at different split ratio. 
-* 
+* All three models delivered consistent performance at different split ratio. 
+
 ![](https://github.com/JJSSEE/my_portfolio/blob/main/images/heat_map.png)
 
 ### Area Under the Curve
