@@ -6,7 +6,7 @@ Example data science portfolio
 ## Parkinson's Desease Detection
 
 ### Labels count
-* Given in binary numbers with a healthy status of zero (0) and a desease status of one (1).
+* Healthy status of zero (0) and a desease status of one (1).
 * Data size characterized by being small and umbalanced.
 
 ![](https://github.com/JJSSEE/my_portfolio/blob/main/images/label_count.png)
@@ -14,14 +14,14 @@ Example data science portfolio
 
 ### Confussion Matrix
 
-* Train and test data split selected at a random state ratio of 80/20.
-* All three models delivered consistent performance at different split ratio. 
+* Train and test data was split at the ratio of 80/20.
+* All three models delivered consistent performance.
 
 ![](https://github.com/JJSSEE/my_portfolio/blob/main/images/heat_map.png)
 
-### Area Under the Curve
+### ROC and AUC Matrics
 
-* Train and test data evaluated at random state, resulting in consistent performance.
+* Features reduced by removing low variance dimentions  
 
 ![](https://github.com/JJSSEE/my_portfolio/blob/main/images/roc_auc.png)
 
