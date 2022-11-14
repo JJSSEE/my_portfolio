@@ -1,7 +1,7 @@
 # my_portfolio
 Example data science portfolio
 
-# [Project 1: Classifier Parkinson's Desease Detection](https://github.com/PlayingNumbers/ds_salary_proj)
+# [Project 1: Classifier Parkinson's Desease Detection](https://github.com/JJSSEE/my_portfolio/blob/main/notebooks/Parkinson's%20Disease.ipynb)
 
 # Labels count
 * Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
