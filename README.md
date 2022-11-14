@@ -4,8 +4,12 @@ Example data science portfolio
 ## [Project 1: Classifier](https://github.com/JJSSEE/my_portfolio/blob/main/notebooks/Parkinson's%20Disease.ipynb)
 
 ## Parkinson's Desease Detection
+Three different classification algorithms will be used to detect the presense of the desease.
+* Random Forest
+* Logistic Regression
+* XGBoost
 
-### Labels count
+### Target Variable
 * Healthy status of zero (0) and a desease status of one (1).
 * Data size characterized by being small and umbalanced.
 
