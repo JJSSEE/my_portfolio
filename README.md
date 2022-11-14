@@ -6,12 +6,7 @@ Example data science portfolio
 ## Parkinson's Desease Detection
 
 ### Labels count
-* Target label, given in binary numbers with a healthy status of zero (0) and a desease status of one (1).
-
-status - Health status of the subject (one) - Parkinson's, (zero) - healthy
-* Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
-* Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
-* Built a client facing API using flask 
+* Given in binary numbers with a healthy status of zero (0) and a desease status of one (1).
 
 ![](https://github.com/JJSSEE/my_portfolio/blob/main/images/label_count.png)
 
