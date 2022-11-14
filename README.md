@@ -1,9 +1,11 @@
 # my_portfolio
 Example data science portfolio
 
-# [Project 1: Classifier Parkinson's Desease Detection](https://github.com/JJSSEE/my_portfolio/blob/main/notebooks/Parkinson's%20Disease.ipynb)
+## [Project 1: Classifier](https://github.com/JJSSEE/my_portfolio/blob/main/notebooks/Parkinson's%20Disease.ipynb)
 
-# Labels count
+## Parkinson's Desease Detection
+
+### Labels count
 * Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
 * Scraped over 1000 job descriptions from glassdoor using python and selenium
 * Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
@@ -13,7 +15,7 @@ Example data science portfolio
 ![](https://github.com/JJSSEE/my_portfolio/blob/main/images/label_count.png)
 
 
-# Confussion Matrix
+### Confussion Matrix
 For this example project I built a ball classifier to identify balls from different sports. This could be useful for someone who is new to sports from a certain country. They could take a picture of a ball and an app could serve them some information about the history and rules of the game. This is the underlying model for building something with those capabilities. 
 
 I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning. For most of the cases this would meet the need of an end user of the app. To get these results I used transfer learning on a CNN trained on resnet34. This created time efficiencies and solid results. 
@@ -21,7 +23,7 @@ I was able to get the model to predict the sport of the ball with 94% accuracy a
 
 ![](https://github.com/JJSSEE/my_portfolio/blob/main/images/heat_map.png)
 
-# Area Under Curve
+### Area Under Curve
 
 For this example project I built a ball classifier to identify balls from different sports. This could be useful for someone who is new to sports from a certain country. They could take a picture of a ball and an app could serve them some information about the history and rules of the game. This is the underlying model for building something with those capabilities. 
 
