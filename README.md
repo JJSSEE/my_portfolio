@@ -7,6 +7,7 @@ Example data science portfolio
 
 ### Labels count
 * Given in binary numbers with a healthy status of zero (0) and a desease status of one (1).
+* Data size characterized by being small and not balanced.
 
 ![](https://github.com/JJSSEE/my_portfolio/blob/main/images/label_count.png)
 
