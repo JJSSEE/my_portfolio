@@ -26,7 +26,7 @@ Parkinson’s disease is a progressive neurodegenerative disorder of the central
 ### ROC and AUC Matrics
 
 * Data dimentionality was reduced by removing low variance features 
-* The trainning data is overffited and expected given the small size of the dataset
+* The trainning data is overffited and it is expected given the small size of the dataset
 
 
 ![](https://github.com/JJSSEE/my_portfolio/blob/main/images/roc_auc.png)
