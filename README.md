@@ -19,14 +19,13 @@ Parkinson’s disease is a progressive neurodegenerative disorder of the central
 ### Confussion Matrix
 
 * Train and test data was split at the ratio of 80/20.
-* All three models delivered consistent performance.
+* All three models identified the health status of all the patients correctly.
 
 ![](https://github.com/JJSSEE/my_portfolio/blob/main/images/heat_map.png)
 
 ### ROC and AUC Matrics
 
 * Data dimentionality was reduced by removing low variance features 
-* All three models were able to identify all of the patients with the desease
 * The trainning data is overffited and expected given the small size of the dataset
 
 
