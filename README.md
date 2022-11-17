@@ -37,5 +37,5 @@ Parkinson’s disease is a progressive neurodegenerative disorder of the central
 
 ![](https://github.com/JJSSEE/my_portfolio/blob/main/images/sup_heat.png)
 
-![](https://github.com/JJSSEE/my_portfolio/blob/main/images/label_count.png)
+![](https://github.com/JJSSEE/my_portfolio/blob/main/images/download.png)
 
