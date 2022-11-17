@@ -35,3 +35,7 @@ Parkinson’s disease is a progressive neurodegenerative disorder of the central
 
 ## Superconductivity critical temperature prediction
 
+![](https://github.com/JJSSEE/my_portfolio/blob/main/images/label_count.png)
+
+![](https://github.com/JJSSEE/my_portfolio/blob/main/images/label_count.png)
+
