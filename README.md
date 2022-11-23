@@ -39,9 +39,22 @@ Superconductivity is the ability of certain materials to conduct electric curren
 The ElasticNet regressor model was selected due to its built-in variable selection fitting procedures, needed due to the high level of dimentions in the dataset.
 
 
+### Heatmap
+*111111111111111111111
+*111111111111111111111
+
 ![](https://github.com/JJSSEE/my_portfolio/blob/main/images/sup_heat.png)
 
+### Heatmap
+*111111111111111111111 
+*111111111111111111111
+
 ![](https://github.com/JJSSEE/my_portfolio/blob/main/images/pair_plot.png)
+
+### Heatmap
+
+*111111111111111111111 
+*111111111111111111111
 
 ![](https://github.com/JJSSEE/my_portfolio/blob/main/images/siperconductivity_regression.png)
 
