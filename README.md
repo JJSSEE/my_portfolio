@@ -35,6 +35,10 @@ Parkinson’s disease is a progressive neurodegenerative disorder of the central
 
 ## Superconductivity critical temperature prediction
 
+Superconductivity is the ability of certain materials to conduct electric current with practically zero resistance. For a material to behave as a superconductor, extreme low temperatures are required. The goal of this project is to predict the critical temperature based on the given features. 
+The ElasticNet regressor model was selected due to its built-in variable selection fitting procedures, needed due to the high level of dimentions in the dataset.
+
+
 ![](https://github.com/JJSSEE/my_portfolio/blob/main/images/sup_heat.png)
 
 ![](https://github.com/JJSSEE/my_portfolio/blob/main/images/pair_plot.png)
