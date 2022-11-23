@@ -1,5 +1,5 @@
 # my_portfolio
-Example data science portfolio
+Under Construction: Example data science portfolio
 
 ## [Project 1: Classifier](https://github.com/JJSSEE/my_portfolio/blob/main/notebooks/Parkinson's%20Disease.ipynb)
 
@@ -36,7 +36,7 @@ Parkinson’s disease is a progressive neurodegenerative disorder of the central
 ## Superconductivity critical temperature prediction
 
 Superconductivity is the ability of certain materials to conduct electric current with practically zero resistance. For a material to behave as a superconductor, extreme low temperatures are required. The goal of this project is to predict the critical temperature based on the given features. 
-The ElasticNet regressor model was selected due to its built-in variable selection fitting procedures, needed due to the high level of dimentions in the dataset.
+The ElasticNet regressor was selected due to its built-in variable selection fitting procedures, given the high dimension of the Dataset.
 
 
 ### Heatmap
