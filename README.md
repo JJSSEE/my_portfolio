@@ -38,15 +38,15 @@ Parkinson’s disease is a progressive neurodegenerative disorder of the central
 Superconductivity is the ability of certain materials to conduct electric current with practically zero resistance. For a material to behave as a superconductor, extreme low temperatures are required. The goal of this project is to predict the critical temperature of a the material based on its atomic characteristics. In this model, the ElasticNet regressor was selected due to its built-in variable selection fitting procedures, given the high level of dimension in the Dataset.
 
 
-### heatmap
+### Heatmap
 
 ![](https://github.com/JJSSEE/my_portfolio/blob/main/images/sup_heat.png)
 
-### pair plot
+### Pair Plot
 
 ![](https://github.com/JJSSEE/my_portfolio/blob/main/images/pair_plot.png)
 
-### regression line
+### Regression Line
 
 ![](https://github.com/JJSSEE/my_portfolio/blob/main/images/siperconductivity_regression.png)
 
