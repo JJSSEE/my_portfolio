@@ -42,7 +42,7 @@ Superconductivity is the ability of certain materials to conduct electric curren
 
 ![](https://github.com/JJSSEE/my_portfolio/blob/main/images/sup_heat.png)
 
-### Pair Plot
+### Pairplot
 
 ![](https://github.com/JJSSEE/my_portfolio/blob/main/images/pair_plot.png)
 
