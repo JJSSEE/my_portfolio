@@ -1,7 +1,7 @@
 # my_portfolio
 Under Construction: Example data science portfolio
 
-## [Classification Project](https://github.com/JJSSEE/my_portfolio/blob/main/notebooks/Parkinson's%20Disease.ipynb)
+## [scikit-learn classification project](https://github.com/JJSSEE/my_portfolio/blob/main/notebooks/Parkinson's%20Disease.ipynb)
 
 ## Parkinson's Desease Detection
 Parkinson’s disease is a progressive neurodegenerative disorder of the central nervous system. The cause of the desease is unknown and there is no cure. A dataset containing information of healthy patients and patients with the desease is analyzed, and three different classification algorithms were used to detect the presense of the desease.
@@ -31,7 +31,7 @@ Parkinson’s disease is a progressive neurodegenerative disorder of the central
 
 ![](https://github.com/JJSSEE/my_portfolio/blob/main/images/roc_auc.png)
 
-## [Regression Project](https://github.com/JJSSEE/my_portfolio/blob/main/notebooks/Superconductivity_project.ipynb)
+## [scikit-learn regression project ](https://github.com/JJSSEE/my_portfolio/blob/main/notebooks/Superconductivity_project.ipynb)
 
 ## Superconductivity critical temperature prediction
 
