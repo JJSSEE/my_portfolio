@@ -50,6 +50,6 @@ Superconductivity is the ability of certain materials to conduct electric curren
 
 ![](https://github.com/JJSSEE/my_portfolio/blob/main/images/siperconductivity_regression.png)
 
-## [Image clustering-classification](https://github.com/JJSSEE/my_portfolio/blob/main/notebooks/Parkinson's%20Disease.ipynb)
+## [Image clustering-classification](https://github.com/JJSSEE/my_portfolio/blob/main/notebooks/cluster_ferro_v3.ipynb)
 
 
