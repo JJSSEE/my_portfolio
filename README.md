@@ -52,8 +52,12 @@ Superconductivity is the ability of certain materials to conduct electric curren
 
 ## [Image clustering-classification](https://github.com/JJSSEE/my_portfolio/blob/main/notebooks/cluster_ferro_v3.ipynb)
 
+## Binary Clustering-Classification of Iron Microstructure Images
+
 ![](https://github.com/JJSSEE/my_portfolio/blob/main/images/gray_ductile_img.png)
 
 ![](https://github.com/JJSSEE/my_portfolio/blob/main/images/confusion_matrix_iron.png))
+
+
 
 
