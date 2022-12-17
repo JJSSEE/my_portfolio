@@ -1,8 +1,3 @@
-# my_portfolio
-Under Construction: Example data science portfolio
-
-## [scikit-learn classification](https://github.com/JJSSEE/my_portfolio/blob/main/notebooks/Parkinson's%20Disease.ipynb)
-
 ## Parkinson's Desease Detection
 Parkinson’s disease is a progressive neurodegenerative disorder of the central nervous system. The cause of the desease is unknown and there is no cure. A dataset containing information of healthy patients and patients with the desease is analyzed, and three different classification algorithms were used to detect the presense of the desease.
 * Random Forest
@@ -31,7 +26,7 @@ Parkinson’s disease is a progressive neurodegenerative disorder of the central
 
 ![](https://github.com/JJSSEE/my_portfolio/blob/main/images/roc_auc.png)
 
-## [scikit-learn linear regression](https://github.com/JJSSEE/my_portfolio/blob/main/notebooks/Superconductivity_project.ipynb)
+
 
 ## Superconductivity critical temperature prediction
 
@@ -50,13 +45,17 @@ Superconductivity is the ability of certain materials to conduct electric curren
 
 ![](https://github.com/JJSSEE/my_portfolio/blob/main/images/siperconductivity_regression.png)
 
-## [Image clustering-classification](https://github.com/JJSSEE/my_portfolio/blob/main/notebooks/cluster_ferro_v3.ipynb)
+
 
 ## Binary Clustering-Classification of Iron Microstructure Images
 
 ![](https://github.com/JJSSEE/my_portfolio/blob/main/images/gray_ductile_img.png)
 
 ![](https://github.com/JJSSEE/my_portfolio/blob/main/images/confusion_matrix_iron.png))
+
+## [scikit-learn classification](https://github.com/JJSSEE/my_portfolio/blob/main/notebooks/Parkinson's%20Disease.ipynb)
+## [Image clustering-classification](https://github.com/JJSSEE/my_portfolio/blob/main/notebooks/cluster_ferro_v3.ipynb)
+## [scikit-learn linear regression](https://github.com/JJSSEE/my_portfolio/blob/main/notebooks/Superconductivity_project.ipynb)
 
 
 
